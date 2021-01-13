@@ -1,0 +1,15 @@
+{
+  "name": "simulation-factory-backend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ajv": "6.12.5"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
