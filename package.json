@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "ajv": "6.12.5",
-    "mongodb": "3.6.3"
+    "mocha": "8.2.1",
+    "mongodb": "3.6.3",
+    "sinon": "9.2.3"
   },
   "author": "",
   "license": "ISC",
